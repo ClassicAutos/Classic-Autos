@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="bingbot" content="index,follow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Classic Autos Pakistan — Electric Scooters EV Reviews</title>
+
+
+<!-- SEO Meta Tags -->
+<meta name="description" content="Classic Autos Pakistan — trusted source for electric scooters, bikes, accessories, reviews, specs and prices across Lahore, Karachi and Islamabad." />
+<link rel="canonical" href="https://classicautos.com.pk/">
+
+<!-- Open Graph / Social Meta -->
+<meta property="og:title" content="Classic Autos Pakistan — Electric Scooters & EV Reviews">
+<meta property="og:description" content="Explore electric scooters, bikes, and EV accessories with reviews and prices across Pakistan.">
+<meta property="og:url" content="https://classicautos.com.pk/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://classicautos.com.pk/images/og-banner.jpg">
+
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Classic Autos Pakistan",
+  "url": "https://classicautos.com.pk/",
+  "logo": "https://classicautos.com.pk/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/classicautospakistan",
+    "https://www.instagram.com/classicautospk"
+  ]
+}
+</script>
+
+<style>
+  body { font-family: Arial, Helvetica, sans-serif; line-height: 1.6; color: #222; padding: 24px; background-color: #fff; }
+  .content { max-width: 900px; margin: 0 auto; background: #f9f9f9; padding: 20px; border-radius: 8px; }
+  h1, h2 { color: #0b3a66; }
+  a { color: #0066cc; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  img src.scooter-im age{ display: block; margin: 20px auto; max-width: auto; height: auto; border-radius: 10px;} 
+</style>
+</head>
+
+<body>
+  <main class="content" role="main">
+    <h1>Classic Autos Pakistan — Electric Scooters & EV Reviews</h1>
+
+    <!-- Inserted Image Below H1 -->
+    <img src="https://drive.google.com/file/d/1oKYNHtRTC3BXxLRFKiB5x-qYyOy5Gt4q/view" 
+    alt="Evee Nisa Electric Scooter" class="scooter-image" height="50%" width="80%">
+
+    <p>
+      <strong>Classic Autos Pakistan</strong> is a trusted name in the automotive market, offering high-quality electric scooters, bikes, and accessories that meet the needs of modern commuters. Our goal is to make eco-friendly transportation accessible and affordable for everyone. With an expanding range of electric vehicles, Classic Autos brings comfort, innovation, and sustainability together in one platform. Visit 
+      <a href="https://classicautos.com.pk/" target="_blank" rel="noopener noreferrer">ClassicAutos.com.pk</a> 
+      to explore the latest electric scooters and discover smarter ways to ride.
+    </p>
+
+    <p>
+      Electric scooters are quickly becoming the top choice for urban transport across Pakistan. They offer a cost-effective alternative to petrol bikes, helping users save money while reducing carbon emissions. At Classic Autos Pakistan, we provide detailed reviews, specifications, and comparisons of the most popular electric scooters like Evee, Jaguar, and Scooty. Whether you’re in Lahore, Karachi, or Islamabad, our expert insights help you choose the perfect electric ride for your lifestyle.
+    </p>
+
+    <p>
+      Classic Autos Pakistan partners with leading electric scooter brands that bring performance, durability, and smart design to the streets. From the sleek Evee Nisa to the powerful Evee Flipper, each model we feature combines technology and comfort for a smooth ride. Our website helps customers stay updated with the latest prices, features, and reviews — ensuring they always get the best value. Learn more at 
+      <a href="https://classicautos.com.pk/product/evee-nisa-electric-scooter/" target="_blank" rel="noopener noreferrer">Evee Nisa Electric scooter</a> 
+      and upgrade your daily commute today.
+    </p>
+
+    <p>
+      At Classic Autos, we don’t just sell information — we build trust. Our mission is to guide Pakistan’s transition toward sustainable mobility by sharing authentic, data-backed reviews and EV insights. Whether you’re researching the newest models or comparing scooter prices, we’ve got everything you need in one place. Join our growing community of electric vehicle enthusiasts by visiting 
+      <a href="https://classicautos.com.pk/product/evee-gen-z-pro-electric-scooter/" target="_blank" rel="noopener noreferrer">Evee Gen-Z Pro Electric Scooter</a> 
+      and stay ahead in the EV revolution.
+    </p>
+  </main>
+</body>
+</html>
